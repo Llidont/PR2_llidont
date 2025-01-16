@@ -1,4 +1,4 @@
-# Data Visualization (PR2): Main Characteristics of New Passenger Cars in Europe"
+# Data Visualization (PR2): Main Characteristics of New Passenger Cars in Europe
 
 This repository contains an R Shiny application for visualizing the main characteristics of new passenger cars in Europe. The application includes interactive maps and plots that explore emissions, mass, engine power, and popular car makes. Due to the size of the dataset, preprocessing is required before running the Shiny app.
 
